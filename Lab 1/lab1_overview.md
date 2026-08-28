@@ -15,7 +15,10 @@ A lab to help get us framiliar with the syntax of markdown editors and making a 
 4. Wrote the week one project log and added it to that folder in GitHub
 5.Linked it in the readme file after adding a Description
 6.Downloaded Git
-7.Got fucking frustrated
+7.Realized I didn't need to?
+8.Maybe successfully did the bash commit and pull thing?
+9.Added Dr.Fu as a collaborator and added a description
+10.Turned in the url - I tried my best
 
 ## Reflection
 This assignment took me like 3 hours maybe more.I would say this is a highly difficult assignment simply because I have no clue what I'm doing and it feels like there is no support to help me get it done because lab was 50 minutes long and the first part of this assignment took up most of that time when that's the part that requires no help. This entire section is the most frustrating. I have no idea what bash is or where I'm supposed to type any of this stuff or what pushing somethign to GitHub even means.
