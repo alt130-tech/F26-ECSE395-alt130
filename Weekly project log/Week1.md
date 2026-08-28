@@ -20,7 +20,8 @@ We worked asynchronously on the email draft. Owen shared the document with us an
 - **Created Team Contract**
 We met before class on Friday to create our team contract. We essentially just agreed to what the given contract already had on it but specifed some things for clarity. Like how quickly we want to respond to each other and how often we want to meet. We also assigned team roles via a wheel spinner and then created a 4th role titled 'Damage Control'. They essentially are there to double check everyone else work or pick up any slack. If the secreatry can't make it to a meeting, damage control takes over. If the document manager misses some submission deadline, damage control is responsible for making sure it gets submitted on time. Allison will submit that after Trevor signs it.
 - **Sent Email to Mr.Moss**
-At about 1:15 today Owen sent the email to our stake holder that we drafted last night. ![Alt Text](https://imgur.com/a/sfA2tSR)
+At about 1:15 today Owen sent the email to our stake holder that we drafted last night.<img width="340" height="183" alt="stakeholderEmail1" src="https://github.com/user-attachments/assets/5b3c7663-219d-4b10-953d-ae4a41cc3fbe" />
+
 
 
 
