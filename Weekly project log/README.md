@@ -4,5 +4,5 @@ This repositry is a weekly porject log for our project to automate baseball scor
 # Table of Content
 | Weeks   | What we did                                                                             |
 | ------- | --------------------------------------------------------------------------------------- |
-| Week 1  | Figuring out Github                                                                     |
+| Week 1  | [Week1 Project Log](Week1.md)                                                                    |
 | Week #  | ...and so on                                                                            |
