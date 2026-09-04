@@ -5,4 +5,4 @@ This repository is a weekly porject log for our project to automate baseball sco
 | Weeks   | What we did                                                                             |
 | ------- | --------------------------------------------------------------------------------------- |
 | Week 1  | [Week1 Project Log](Week1.md)                                                                    |
-| Week #  | ...and so on                                                                            |
+| Week #  | [Week2 Project Log](Week2.md)                                                                           |
