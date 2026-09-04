@@ -1,4 +1,4 @@
-# Week 1 Project Log
+# Week 2 Project Log
 
 ##### Alex Thornton
 
