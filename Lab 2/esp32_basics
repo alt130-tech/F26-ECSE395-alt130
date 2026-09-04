@@ -18,17 +18,11 @@ This is my first time working with an ESP 32 and we are supposed to make a blink
 7. Turned in the link of my repo
 
 ## Reflection
-This assignment took me like 3 hours maybe more.I would say this is a highly difficult assignment simply because I have no clue what I'm doing and it feels like there is no support to help me get it done because lab was 50 minutes long and the first part of this assignment took up most of that time when that's the part that requires no help. This entire section is the most frustrating. I have no idea what bash is or where I'm supposed to type any of this stuff or what pushing somethign to GitHub even means.
-*Stage and commit your changes: “bash git add README.md git commit -m
-“Add README and Week1 with Markdown documentation” ”
-• Push the changes to GitHub: “bash git push origin main”
-• Now that you have the weekly project log folder, you should be making several
-commits a week to it; every time you work on the project for this class, write a
-brief summary of your individual contributions in the appropriate week’s Mark-
-down file (each week of the semester should get its own Markdown file [e.g.,
-Week#.md] and you should be continuously updating the table of contents in
-the readme. md*
-After this I feel incredibly unprepared. Now I know how much I don't know and this is just about documentation.
+1. This assignment took me about the full lab time. Lab is wrapping up and I'm writing this, however I think there is still an issue with my repo and file locations on my computer so I'm going to mess around with that and try and see if I can figure it out. So 50 ish minutes?
+2. Compared to learning GitHub, this was easy. I felt lost and like I didn't know what I was doing of coure but not as bad as last time? I would give this a medium difficulty rating.
+3. I found the baud part the most difficult just because I don't even know what that is, but asking a classmate helped me enough. 
+4. Not super comfortable but it maybe there's a light at the end of the tunnel?
+5. I still don't know what pushing is on GitHub.
 
 
 
