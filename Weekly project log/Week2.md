@@ -6,6 +6,7 @@
 
 ### What we've done
 
+#### Communication with David Throughout the Week [View the PDF Document](./DMossEmailChain_9-4-26.pdf)
 
 #### Tuesday September 1, 2026
 - **Got A Response From David**
