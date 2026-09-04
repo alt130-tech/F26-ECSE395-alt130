@@ -7,7 +7,8 @@
 ### What we've done
 
 #### Communication with David Throughout the Week
-[![Click to open PDF](./page1-preview.png)](./DMossEmailChain_9-4-26.pdf)
+<img width="518" height="387" alt="Screenshot 2026-09-04 171212" src="https://github.com/user-attachments/assets/16f810e7-c05c-4732-953d-377a26c57dce" />
+
 
 #### Tuesday September 1, 2026
 - **Got A Response From David**
@@ -25,7 +26,8 @@ I contacted the group suggesting a shared notes document so that we could prep q
 #### Thursday September 3, 2026
 - **Created Shared Drive and Notes Doc & Arranged Time to Get Together**
 Allison made a shared doc and a shared drive for us to take notes in and keep our files straight in. Trevor suggested we do the meeting with all of us in person in the Glennan lounge. Allison then said she would be there at 5:00 to start prepping questions if anyone wanted to join her.
--**Breif Team Meeting After Call with David**
+[Meeting Notes with David](https://docs.google.com/document/d/1SBWzOYP4PB_EzL-VDEZdlF36gNE0MmTHMzPDjm1w64c/edit?usp=sharing)
+- **Breif Team Meeting After Call with David**
 Agreed we needed to follow up with Dr.Fu about what the next steps were then get in contact with David again. Allison organized the notes taken during the meeting.
 
 
