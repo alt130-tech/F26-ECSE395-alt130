@@ -20,8 +20,8 @@ We agreed on a zoom meeting around 8:15 pm on Tuesday. **I took on the Needs Sta
 We met to start the affinity clustering and to go over the three portions of the assignment that was done individually. Allison did an excellent job covering the background and everything that David told us about his competition. **I worked on the needs statement. I provided two different options for the group to discuss because I noticed there was a format for it with 3 sentences and then also said though that it shouldn't be a paragraph but a singular sentence. So I condensed the 3 sentence structure into 1.** I believe the group settled on the singular sentence to submit. Then we reviewed the personas that Trevor and Owen tag teamed and they looked great and accurate. We then did the affinity clustering for about 12 minutes. Then clustered them into ideas/groups. We then discussed key insights with the agreement that Trevor would finalize them and type them up and then Trevor would submit.
 
 **During this meeiting I took the minutes which are linked below along with the deliverable.**
-[Meeting Minutes](https://docs.google.com/document/d/1-7bPFnhywDJ_Holz-fZntHVPVAnFjhJahDThb-H_U8Y/edit?usp=drive_link)
-[Needs Statement Deliverable](https://docs.google.com/document/d/1FO4Na-i3ssagLvhBAd9jr_9KukC__30l/edit?usp=drive_link&ouid=115549054560488781319&rtpof=true&sd=true)
+- [Meeting Minutes](https://docs.google.com/document/d/1-7bPFnhywDJ_Holz-fZntHVPVAnFjhJahDThb-H_U8Y/edit?usp=drive_link)
+- [Needs Statement Deliverable](https://docs.google.com/document/d/1FO4Na-i3ssagLvhBAd9jr_9KukC__30l/edit?usp=drive_link&ouid=115549054560488781319&rtpof=true&sd=true)
 
 #### Wednesday September 9th, 2026
 - **Reflection Over The Standards Video**
