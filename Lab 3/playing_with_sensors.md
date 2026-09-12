@@ -3,19 +3,16 @@
 
 ---
 
-## A Description of the Assignment's Purpose
+## Lab Objectives
 
-A lab to help get us framiliar with the syntax of markdown editors and making a repository in GitHub. 
+To help get comfortable with using the esp32 with a potentiometer and touch sensor. Teaching how to code and take inputs and outputs to and from the esp32.
 
-## List of Steps Taken to Complete this Assignmentsignment
+## How to Assignment Was Completed and Contents 
 
-1.Created a GitHub account
-2.Opened Dillinger to create a Markdown file
-3.Created another Markdown file for the week one project log
-4. Wrote the week one project log and added it to that folder in GitHub
-5.Linked it in the readme file after adding a Description
-6.Downloaded Git
-7.Got fucking frustrated
+Using Platform.IO and Windows Software
+
+This markdown includes the code for reading analog voltages off of the potentiometer found in the potentiometer.cpp (simply reading values off the potentiometer) and voltage.cpp (reading voltages of the potentiometer). It also includes code for the touch sensor that displays a message whether or not the sensor was touched and also blinks a light when touched.
+
 
 ## Reflection
 This assignment took me like 3 hours maybe more.I would say this is a highly difficult assignment simply because I have no clue what I'm doing and it feels like there is no support to help me get it done because lab was 50 minutes long and the first part of this assignment took up most of that time when that's the part that requires no help. This entire section is the most frustrating. I have no idea what bash is or where I'm supposed to type any of this stuff or what pushing somethign to GitHub even means.
