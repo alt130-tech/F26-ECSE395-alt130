@@ -28,5 +28,5 @@ We met to start the affinity clustering and to go over the three portions of the
 I liked this video. It was a good way to breakdown why we have standards and exactly what a standard is. I even appreciated the quiz and the check in because I honestly thought before the video that the consumer would be setting the standard. I know that that's silly because consumers don't know anything but this class is so consumer and user focused I figured the standards would be too. But after thinking about how standards include things for safety--like establishing which side of the road to drive on it makes sense that these might need to be regulated by a more informed collective. I was thinking things more like mason jar lids like they mentioned in the video.
 
 #### Friday September 11th, 2026
--**Communication With The Group**
+- **Communication With The Group**
 We discussed in our group chat and during lab a time to meet this weekend and so far 3 of us have responded hopefully we will be able to nail down a time to work on the deliverable for this Monday.
