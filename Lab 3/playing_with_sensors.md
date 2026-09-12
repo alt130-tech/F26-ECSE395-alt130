@@ -17,6 +17,10 @@ All of these .cpp files are in the lab 3 folder, under src. To implement the cod
 
 
 ## Reflection
-All and all this assigment took me a little over an hour. This I rate medium difficulty. I thought the most difficult part was understanding what code was necessary and why but even then not really cause it was all provided for us. I guess just knowing what to keep or change was a little unclear. Truly one of my favorite assignments so far this semester for this class. I feel like I'm starting to understand github better and markdowns. Nah just that the commenting on the assignments feels redundant. Like assigning a variable and then having to explain what it does multiple times. I feel like at this point in an ee degree explaning that isn't necessary but I understand why we have to do it.
+1. All and all this assigment took me a little over an hour.
+2. This I rate medium difficulty. I thought the most difficult part was understanding what code was necessary and why but even then not really cause it was all provided for us.
+3. I guess just knowing what to keep or change was a little unclear in the code.
+4. Truly one of my favorite assignments so far this semester for this class. I feel like I'm starting to understand github better and markdowns.
+5. Not really just that the commenting on the assignments feels redundant. Like assigning a variable and then having to explain what it does multiple times. I feel like at this point in an ee degree explaning that isn't necessary but I understand why we have to do it.
 
 
