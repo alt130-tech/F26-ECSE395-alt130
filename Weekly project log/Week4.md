@@ -21,7 +21,7 @@ I took minutes and was in charge of keeping track of important ideas that people
 #### Monday September 14th, 2026
 - **Deliverable Submission**
 Allison, our document manager submitted our deliverable after we looked it over one last time.
-- [Needs Statement Deliverable][(https://docs.google.com/document/d/1ekDvRMNpgmDbTma5xSVHHabtiHkh55_X/edit?usp=drive_link&ouid=115549054560488781319&rtpof=true&sd=true)]
+- [Needs Statement Deliverable](https://docs.google.com/document/d/1ekDvRMNpgmDbTma5xSVHHabtiHkh55_X/edit?usp=drive_link&ouid=115549054560488781319&rtpof=true&sd=true)
 
 
 #### Tuesday September 15th, 2026
@@ -30,13 +30,11 @@ We worked individuall to create our assigned slides and practice for our very sh
 
 - **Deliverable Submission**
 Allison submitted our slides presentation after we all aknowledge that we were done with our portions.
-- [Needs Statement Presentation Deliverable][(https://docs.google.com/presentation/d/1HNgj513z9JWouAf7uqcJNz17sEd1JrxbcjvTZGTLvM8/edit?usp=drive_link)]
+- [Needs Statement Presentation Deliverable](https://docs.google.com/presentation/d/1HNgj513z9JWouAf7uqcJNz17sEd1JrxbcjvTZGTLvM8/edit?usp=drive_link)
 
 #### Wednesday September 16th, 2026
 - **Deliverable Presentation**
-I edited my slide during class because I noticed the rubric specifically said that it wanted the three sentence format for the needs statement and presented it that way, it was my fault for not reading the rubric closer the first time.
-
-We presented our user's Needs Statement to the class and Dr.Fu. We went a little over time, however we all kept good volumes and personally I was really nervous but I don't think that came through when I was speaking. 
+I edited my slide during class because I noticed the rubric specifically said that it wanted the three sentence format for the needs statement and presented it that way, it was my fault for not reading the rubric closer the first time. We presented our user's Needs Statement to the class and Dr.Fu. We went a little over time, however we all kept good volumes and personally I was really nervous but I don't think that came through when I was speaking. 
 
 #### Friday September 18th, 2026
 - **Group Communication**
