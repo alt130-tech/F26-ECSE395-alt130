@@ -8,7 +8,7 @@
 
 
 #### Sunday September 13th, 2026
--**Individual Work**
+- **Individual Work**
 We agreed that we would each come up with about 3-4 technical and functional specifications before we met so that we would have a jumping off point.
 I contributed 4 fucntional specifications and 3 technical specifications in this individual portion.
 
