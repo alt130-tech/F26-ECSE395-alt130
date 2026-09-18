@@ -1,5 +1,5 @@
 /* #include <Arduino.h>
-
+//alt130
 // TODO: Define your pins
 // Hint: Look at your wiring. Which pins did you use?
 const int MOTOR_B_1A = A1; // Replace 0 with your pin number
@@ -23,13 +23,13 @@ void setup() {
 
 void loop() {
   analogWrite(MOTOR_B_1A, 0);
-  analogWrite(MOTOR_B_1B, 255);
+  analogWrite(MOTOR_B_1B, 150);
 
-  delay(5000);
+  delay(2000);
 
   analogWrite(MOTOR_B_1A, 0);  
   analogWrite(MOTOR_B_1B, 0);
-  delay(5000);
+  delay(1000);
 }
 
 // Note:

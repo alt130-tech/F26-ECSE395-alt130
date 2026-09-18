@@ -1,4 +1,5 @@
 /* #include <ESP32Servo.h>
+//alt130
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
 
@@ -7,15 +8,15 @@ Servo myServo;
 const int servoPin = A0;
 
 // Define the minimum and maximum pulse widths for the servo
-const int minPulseWidth = 500; // 0.5 ms
-const int maxPulseWidth = 2500; // 2.5 ms
+const int minPulseWidth = 100; // 0.5 ms
+const int maxPulseWidth = 2000; // 2.5 ms
 
 void setup() {
   // Attach the servo to the specified pin and set its pulse width range
   myServo.attach(servoPin, minPulseWidth, maxPulseWidth);
 
   // Set the PWM frequency for the servo
-  myServo.setPeriodHertz(50); // Standard 50Hz servo
+  myServo.setPeriodHertz(25); // Standard 50Hz servo
 }
 
 void loop() {
