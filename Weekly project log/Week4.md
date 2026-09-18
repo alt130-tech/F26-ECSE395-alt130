@@ -21,6 +21,8 @@ I took minutes and was in charge of keeping track of important ideas that people
 #### Monday September 14th, 2026
 - **Deliverable Submission**
 Allison, our document manager submitted our deliverable after we looked it over one last time.
+- [Needs Statement Deliverable][(https://docs.google.com/document/d/1ekDvRMNpgmDbTma5xSVHHabtiHkh55_X/edit?usp=drive_link&ouid=115549054560488781319&rtpof=true&sd=true)]
+
 
 #### Tuesday September 15th, 2026
 - **Individual Work on the Presentation**
@@ -28,6 +30,7 @@ We worked individuall to create our assigned slides and practice for our very sh
 
 - **Deliverable Submission**
 Allison submitted our slides presentation after we all aknowledge that we were done with our portions.
+- [Needs Statement Presentation Deliverable][(https://docs.google.com/presentation/d/1HNgj513z9JWouAf7uqcJNz17sEd1JrxbcjvTZGTLvM8/edit?usp=drive_link)]
 
 #### Wednesday September 16th, 2026
 - **Deliverable Presentation**
