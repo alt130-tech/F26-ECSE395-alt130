@@ -1,10 +1,10 @@
 #include <ESP32Servo.h>
 // Don't forget to include the library!!
 // From PlatfromIO library, search for ESP32 servo and add it to the project
-
+//alt130
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = 0;
+const int servoPin = A0;
 
 // variable for random angle
 int randomAngle;
@@ -26,11 +26,11 @@ void setup() {
 
 void loop() {
     //  --- SECTION 1: Make a Random Angle Between 0 to 180 ---
-    // randomAngle = ?; // random(A,B); returns a random value between A and B
+    randomAngle = random(0,180); // random(A,B); returns a random value between A and B
 
     // ---SECTION 2: Map Pulse Width with Angle
-    // pulseWidth = map(?, ?, ?, ?, ?, ?) // from Servo Motor.cpp, what did you learn from using map function?
+    pulseWidth = map(randomAngle, 0, 180, minPulseWidth, maxPulseWidth); // I learned I hate this and I don't understand this map behavior at all
     myServo.writeMicroseconds(pulseWidth); // writing pulse width to servo
 
-    delay(1000); // change delay to your own preference
+    delay(random(1000,4000)); // random delays between 1 and 4 seconds
 }
