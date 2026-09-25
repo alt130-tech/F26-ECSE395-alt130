@@ -39,7 +39,7 @@ The feather's A1 pin is wired to the PIR out pin.
 
 
 ## Reflection
-1. This assignment took 3 hours. As of right now I still have to push things to github which I struggle with
-2. This I rate a high difficulty. 
-3. I couldn't understand the instructions very well and observing changes in something that is spinning is very difficult especially when I don't really know what I'm looking for. I still do not feel comfortable with the servo and how the changes in 'angle' or pulsewidths really do anything
-4. After this lab emotions are low. I don't feel great in this course and I feel like I'm back over my head and just lucky that my group knows how to work with this stuff.
+1. This assignment took 2 hours 
+2. This I rate a medium difficulty
+3. Just trying to figure out the pins and honeslty what I wanted to do that was within reason. I love getting to be creative like this but my scope is always too wide. Also just like the coding. I've never used C++ so having to go through and figure out that syntax while not knowing arduinos that well just takes me a while.
+4. I'm back up. I don't know how I feel for this course. My group mates are great so I'm excited and feel supported. And I think this gave me the confidence to finally start the personal project I've been wanting to develop so yay.
