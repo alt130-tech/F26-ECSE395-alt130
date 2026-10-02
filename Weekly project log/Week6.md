@@ -23,10 +23,9 @@ Allison reached out to ensure that the three of us who were free at 4:00 on Frid
 #### Friday October 2nd, 2026
 - **Team Meeting in Glennan**
 We met during our lab time in Glennan to decide how we were going to present the information to David. We assigned slides and then goals for the meeting. We also took this time to discuss the deliverables for Monday and establish individual work that needs to be done before we meet again on Sunday to try and wrap up the deliverables. Trevor spoke with Dr.Fu about prototyping and the specifics for the 3 prototypes. He mentioned they scale up in fidelity but if we were planning to do a life scale model we might run into issues. We adressed this as a team and will keep it in mind. I of course was taking minutes throughout this meeting.
+- [Meeting Minutes](https://docs.google.com/document/d/1-7bPFnhywDJ_Holz-fZntHVPVAnFjhJahDThb-H_U8Y/edit?usp=drive_link)
 
-
-#### Friday September 25th, 2026
-- **Team Communication and Communication with Dr.Fu**
-We talked as a team about how to go about the deliverable on Monday because we aren't meeitng with David until next week. We set a tentative group meeting for Monday evening again.
-- **Individual Work**
-I chose to make a system that was a veryyyy basic version of one of our ideas for a timing system. But as I worked on it the more I liked it. It is a motion detection stopwatch system that displays the time for an official to write down.
+- **Meeting With David**
+We met with David at 4:00 pm and presented our concepts. He asked us questions about each and made some really good points that we hadn't considered that we are definitely going to carry with us as we design these prototypes. I presented ideas 2 and 3. David liked most idea 1 but would really prefer if we combined ideas 1 and 2 to solve both of the problems we offered to tackle. I was taking minutes throughout the meeting.
+- [Meeting Minutes](https://docs.google.com/document/d/1-7bPFnhywDJ_Holz-fZntHVPVAnFjhJahDThb-H_U8Y/edit?usp=drive_link)
+  
