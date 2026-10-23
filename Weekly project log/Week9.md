@@ -21,4 +21,5 @@ We met during our lab time to finally get the hard model of our prototype ironed
  
 #### Friday October 23rd, 2026
 - **Team Meeting In Glennan**
-Prototype put together day!! Yippee!!
+We met during the lab hour in Glennan and started working through piecing together prototype 3. Unfortunately the ESP32 was having some issues that it didn't have when we originally made this design. We think there is a component drawing too much current and we could not get the prototype together by the end of lab. Allison and I are going to come in tomorrow (Saturday) to get it working or rebuild so that it is ready for presenting on Monday. Trevor is done with prototype 1 except for translating code in C++ to Rust but that should 'be easy' he says and will also be done tomorrow. Being the secretary, I took the meeting minutes. We also talked about scheduling a time to practice presenting because time is of the essence with this presentation and demo.
+- [Meeting Minutes](https://docs.google.com/document/d/1puxKMZael7pp1Qf9TKkl3yA_wkr4_i3Dq4wdui5JqS0/edit?usp=sharing)
