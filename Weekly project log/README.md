@@ -13,3 +13,4 @@ This repository is a weekly porject log for our project to automate baseball sco
 | Week 7  | [Week7 Project Log](Week7.md)
 | Week 8  | [Week8 Project Log](Week8.md)
 | Week 9  | [Week9 Project Log](Week9.md)
+| Week 10 | [Week10 Project Log](Week10.md)
