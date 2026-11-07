@@ -8,6 +8,7 @@
 
 
 #### Friday November 6, 2026
+- **Team Meeting in Glennan**
 
 Meeting started at 2:10 in the lab
 Team Bonding
@@ -44,6 +45,7 @@ Trevor re-soldered the camera cause the pins were WACK
 Meeting concluded 2:55
 
 #### Wednesday November 4, 2026
+- **Team meeting in Glennan**
 
 Meeting started at 2:05 in lab
 Team Bonding
@@ -67,9 +69,11 @@ Maybe the judge puts the score into a spreadsheet and like maybe we’ll get an 
 Alex can look into it but like Sunday of next week
 Allison too but she is doing testing for now
 Meeting concluded at 2:55
+
 #### Monday November 2, 2026
-- Team meeting in Glennan
-  Meeting started at 2:05 in the lab 
+- **Team meeting in Glennan**
+
+Meeting started at 2:05 in the lab 
 Team got together to work on the MVP deliverable and base build
 Didn’t have camera or scanner yet
 Team decided to nix the speakers they sounded TERRIBLE – buzzers will do just fine
