@@ -15,3 +15,4 @@ This repository is a weekly porject log for our project to automate baseball sco
 | Week 9  | [Week9 Project Log](Week9.md)
 | Week 10 | [Week10 Project Log](Week10.md)
 | Week 11 | [Week11 Project Log](Week11.md)
+| Week 12 | [Week12 Project Log](Weel12.md)
